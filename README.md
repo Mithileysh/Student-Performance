@@ -1,4 +1,4 @@
-# StudentPerformance
+# Student Performance
 Analysing the student performance in exams considering some relative factors.
 
 ## Attributes
