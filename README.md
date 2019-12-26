@@ -1,5 +1,5 @@
 # StudentPerformance
-Analyzing the student performance in exams considering some relative factors.
+Analysing the student performance in exams considering some relative factors.
 
 ## Attributes
 1) Gender - student's gender (nominal: 'Male' or 'Female’)
